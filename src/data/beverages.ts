@@ -32,7 +32,7 @@ export const beverageItems: MenuItem[] = [
   {
     name: "Pineapple Juice",
     description: "Fresh, sweet pineapple juice",
-    image: "/lovable-uploads/9d6a5321-5204-4381-980f-0559663f6aa3.png",
+    image: "/lovable-uploads/AdobeStock_625847897_Preview.jpeg",
     pricePerHead: 59,
     category: "veg",
     type: "beverage",
@@ -41,7 +41,7 @@ export const beverageItems: MenuItem[] = [
   {
     name: "Orange Juice",
     description: "Freshly squeezed orange juice rich in vitamin C",
-    image: "/lovable-uploads/9d6a5321-5204-4381-980f-0559663f6aa3.png",
+    image:"/lovable-uploads/AdobeStock_100860401_Preview.jpeg",
     pricePerHead: 59,
     category: "veg",
     type: "beverage",
@@ -50,7 +50,7 @@ export const beverageItems: MenuItem[] = [
   {
     name: "Mosambi Juice",
     description: "Sweet lime juice, refreshing and healthy",
-    image: "/lovable-uploads/9d6a5321-5204-4381-980f-0559663f6aa3.png",
+    image: "/lovable-uploads/AdobeStock_1416524878_Preview.jpeg",
     pricePerHead: 59,
     category: "veg",
     type: "beverage",
