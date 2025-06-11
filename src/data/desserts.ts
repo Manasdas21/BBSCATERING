@@ -5,7 +5,7 @@ export const dessertItems: MenuItem[] = [
   {
     name: "Gulab Jamun",
     description: "Soft milk solids dumplings in rose-flavored syrup",
-    image: "https://images.unsplash.com/photo-1598614187854-26a60e982dc4?q=80&w=2787",
+    image: "/lovable-uploads/AdobeStock_1226375631_Preview.jpeg",
     pricePerHead: 29,
     category: "veg",
     type: "dessert",
@@ -14,7 +14,7 @@ export const dessertItems: MenuItem[] = [
   {
     name: "Jalebi",
     description: "Crispy, syrup-soaked spiral-shaped sweet",
-    image: "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?q=80&w=2730",
+    image: "/lovable-uploads/AdobeStock_711420295_Preview.jpeg",
     pricePerHead: 15,
     category: "veg",
     type: "dessert",
@@ -23,7 +23,7 @@ export const dessertItems: MenuItem[] = [
   {
     name: "Rasgulla",
     description: "Soft cheese balls soaked in sugar syrup",
-    image: "https://images.unsplash.com/photo-1606943932434-e3cc5abf1330?q=80&w=2835",
+    image: "/lovable-uploads/AdobeStock_316326278_Preview.jpeg",
     pricePerHead: 29,
     category: "veg",
     type: "dessert",
@@ -32,7 +32,7 @@ export const dessertItems: MenuItem[] = [
   {
     name: "Gajar ka Halwa",
     description: "Grated carrots cooked in milk and sugar",
-    image: "https://images.unsplash.com/photo-1593181520415-5d2bcfc068e0?q=80&w=2800",
+    image: "/lovable-uploads/AdobeStock_1270229773_Preview.jpeg",
     pricePerHead: 59,
     category: "veg",
     type: "dessert",
@@ -41,7 +41,7 @@ export const dessertItems: MenuItem[] = [
   {
     name: "Kheer",
     description: "Creamy rice pudding with cardamom and nuts",
-    image: "https://images.unsplash.com/photo-1507120410856-1f35574c3b45?q=80&w=2670",
+    image: "/lovable-uploads/AdobeStock_1370900497_Preview.jpeg",
     pricePerHead: 69,
     category: "veg",
     type: "dessert",
@@ -50,7 +50,7 @@ export const dessertItems: MenuItem[] = [
   {
     name: "Rabri",
     description: "Rich, creamy dessert made by boiling milk until thick",
-    image: "https://images.unsplash.com/photo-1507120410856-1f35574c3b45?q=80&w=2670",
+    image: "/lovable-uploads/AdobeStock_1129718577_Preview.jpeg",
     pricePerHead: 69,
     category: "veg",
     type: "dessert",
